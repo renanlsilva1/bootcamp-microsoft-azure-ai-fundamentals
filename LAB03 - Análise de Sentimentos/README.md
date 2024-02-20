@@ -30,24 +30,24 @@
   <tfoot></tfoot>
 </table>
 
-## Results - Analyzing Sentiment and Opinions
+## Results - Analisando sentimentos e opniões
 
 ### Overall sentiment
 ![Overall Sentiment](resources/overall_sentiment.png)
 
 ##
 
-### Sentence #1
-![Sentence #1](resources/sentence_1.png)
+### Sentencia #1
+![Sentencia #1](resources/sentence_1.png)
 
 ##
 
-### Sentence #2
-![Sentence #2](resources/sentence_2.png)
+### Sentencia #2
+![Sentencia #2](resources/sentence_2.png)
 
 ##
 
-### Sentence #3
-![Sentence #3](resources/sentence_3.png)
+### Sentencia #3
+![Sentencia #3](resources/sentence_3.png)
 
 ##
