@@ -16,11 +16,9 @@ O desafio propõe que, com a utilização do Microsoft Copilot, sejam geradas im
 
 ## Segunda etapa: Gerando as imagens
 
-01 - Escreva o que você quer que seja criado (no meu caso, um cachorro salsicha em um universo cyberpunk)
-<img align="right" src="https://github.com/miguelfmds/bootcamp-microsoft-azure-ai-fundamentals/assets/157380435/00e33553-8d3f-4891-bc89-7c3cef35edce" width=""/> 
-
-02 - Espere um pouco e então as imagens serão geradas como podemos ver abaixo:
-<img align="right" src="https://github.com/miguelfmds/bootcamp-microsoft-azure-ai-fundamentals/assets/157380435/2d6e3cbf-0a6f-4fee-b7fc-620f75722b27" width=""/> 
+01 - Escreva o que você quer que seja criado
+<img align="right" src="https://github.com/renanlsilva1/bootcamp-microsoft-azure-ai-fundamentals/blob/main/LAB05%20-%20IA%20Generativa/inputs/busca1.png" width=""/> 
+ 
 
 ## O que aprendi?  
 
